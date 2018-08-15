@@ -1,4 +1,4 @@
-# kaggle-Tianic-
+# kaggle
 数据探索和数据挖掘都在里面
 
 
